@@ -1,9 +1,9 @@
 #ifndef _MYPROJECT_H_
 #define _MYPROJECT_H_
 
-void printmyname1();
-void printmyname2();
-void printmyname3();
-void pirntmyname4();
+void printMyName1();
+void printMyName2();
+void printMyName3();
+void pirntMyName4();
 
 #endif
