@@ -3,5 +3,5 @@
 
 void printMyName3()
 {
-printf("지훈\n");
+printf("my name is [지훈]\n");
 }
