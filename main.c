@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "myProject.h"
-int main(viod)
+int main(void)
 {
     printf ("Chief name is KIMSEUNGYU\n");
     printMyName1();
