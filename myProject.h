@@ -11,3 +11,9 @@ int printMyName2()
 	printf("2. my name is [sunju]\n");
 	return 1;
 }
+
+int printMyName3()
+{
+	printf("3. my name is [jihoon]\n");
+	return 1;
+}
