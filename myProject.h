@@ -1,19 +1,9 @@
-#include "myProject.h"
+#ifndef _MYPROJECT_H_
+#define _MYPROJECT_H_
 
-int printMyName1()
-{
-	printf("1. my name is [minjae]\n");
-	retrun 1;
-}
+void printmyname1();
+void printmyname2();
+void printmyname3();
+void pirntmyname4();
 
-int printMyName2()
-{
-	printf("2. my name is [sunju]\n");
-	return 1;
-}
-
-int printMyName3()
-{
-	printf("3. my name is [jihoon]\n");
-	return 1;
-}
+#endif
