@@ -5,3 +5,9 @@ int printMyName1()
 	printf("1. my name is [minjae]\n");
 	retrun 1;
 }
+
+int printMyName2()
+{
+	printf("2. my name is [sunju]\n");
+	return 1;
+}
