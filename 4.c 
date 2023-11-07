@@ -3,5 +3,5 @@
 
 void printMyName4()
 {
-printf("용재\n");
+printf("용재!\n");
 }
