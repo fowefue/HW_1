@@ -3,5 +3,5 @@
 
 void printMyName1()
 {
-printf("민재");
+printf("민재\n");
 }
